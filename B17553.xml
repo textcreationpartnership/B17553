@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions to justices of peace, especially in corporations, for the discharge of their duty to God written at the request of a magistrate, and published for the use of others that need it by Richard Baxter ...</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17553</idno><idno type="EEBO-CITATION">18524569</idno>
+  <idno type="VID">205220</idno>
+  <idno type="EEBO-PROQUEST">2240876114</idno>
+  
+            <idno type="STC">Wing B1250A</idno>
+            <idno type="OCLC">18524569</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205220)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1646:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions to justices of peace, especially in corporations, for the discharge of their duty to God written at the request of a magistrate, and published for the use of others that need it by Richard Baxter ...</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert White, for Nevil Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Octob. 20. 1657.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Justices of the peace --  England.</term>
+               <term type="topical_term">Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="directions">
+            <pb facs="tcp:205220:1"/>
+            <head>DIRECTIONS to Justices of Peace, especially in Corporations, for the discharge of their Duty to God: written at the request of a Magistrate, and published for the use of others that need it: by <hi>Richard Baxter:</hi> Impelled by the love of God and men, to become their submissive Monitor.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall suppose that you begin with God, in Publike hearing his word for your Direction, and by fasting and prayer to beg his blessing on your Endeavours, and I must suppose that you are <hi>Resolved to do Gods will when you know it.</hi> Yet be very jealous of your own heart, lest there be any latent Reserves; for <hi>in this is your greatest danger,</hi> Read <hi>Jer.</hi> 42.1, 2, 3, 4, 5. with <hi>Jer.</hi> 43.1, 2, 3, 4.</p>
+            <p>DIR. I. <hi>Remember the Original and nature of Authority:</hi> It is a beam from the Soveraign Authority of God; it can have no lower spring: as there can be no Being but from Gods Being, <hi>Rom.</hi> 13.1, 2, 4, 6. You are all Gods Officers. The sense of this will teach you, 1. Whose <hi>work</hi> you have to do, and to abhor the Doctrine that would make you so humane, as to have nothing to do in matters of Religion, or of soul-concern<g ref="char:EOLhyphen"/>ment. 2. And whose <hi>will</hi> you must consult. 3. And to take heed of <hi>abusing</hi> so Divine a thing, by Negligence or mis-imployment. 4. And to use your Authority <hi>Reverently</hi> and <hi>Religiously,</hi> and not carelesly as a common thing. As Ministers must speak with Reve<g ref="char:EOLhyphen"/>rence, because they are Gods Messengers, so must you rule with Pious Reverence, as being Gods Officers. 5. Nor must <hi>others</hi> be suffered to <hi>despise</hi> your Authority, because it is of God, and necessary to the common Good. 6. And this will teach you to look <hi>to God,</hi> for protection, approbation, encouragement and reward.</p>
+            <p>DIR. II. <hi>Be sure that it be not self but God, that is your Vltimate End,</hi> and next to that, the <hi>Publike Good.</hi> Let the pleasing and honoring God, and the benefit of men, be the very thing that you intend and seek: and not any carnal content in your own exaltation or pow<g ref="char:EOLhyphen"/>er, or honor. If you do the best works for <hi>self,</hi> and not for God, you debase them and lose them; and make them sins, and serve your selves, and not God in them; and your Reward will be accordingly. Be exceeding jealous of your hearts in this: for <hi>selfishness</hi> is deep rooted, and its the common cause of mens perdition, and the sin that overturneth the Go<g ref="char:EOLhyphen"/>vernments of the earth, and destroyeth the Governors. Look not at sin only as a troubler of the Nation, and wrong to men, but as an offence to God, and a cause of Damnation. Do all your work with respect to God and everlasting Life. It is the Popes device to make men believe, that Magistrates have nothing to do but for mens bodies, and temporal affairs, except as Executioners of his Decrees; If that were generally believed, how base would the Magistracy seem in comparison of the Ministry to all men that believe a Life to come? They that count all dung for Christ, would be tempted to count the Magistrate no better, if his Office no more respected Christ and Salvation, then some imagine, 2 <hi>Chron.</hi> 19.6. <hi>Prov.</hi> 8.15, 16. <hi>Matth.</hi> 28.18. <hi>John</hi> 19.11. <hi>Rom.</hi> 13.6, 4. &amp; 11.36 1 <hi>Cor.</hi> 10.31.</p>
+            <p>DIR. III. That your Ends and actions may be right, <hi>Remember the Labor, the Dif<g ref="char:EOLhyphen"/>ficulties, and Danger of your place,</hi> and that the <hi>Honor is but the cloathing of your office,</hi> and as Sugar to tice down that Labor and suffering, which is bitter to your flesh. Look upon Greatness and Government, as that which in Patience you must submit to undergo when it is for God and the common good: but not as a thing that a wise man should be ambiti<g ref="char:EOLhyphen"/>ous of. He's unlikely to rule for God, that proudly seeks the Power for himself, 2 <hi>Sam.</hi> 15.4.</p>
+            <p>DIR. IV. <hi>Forget not the two great Summaries of your work: To encourage the Good, and be a Terror and Avenger to the evil,</hi> Rom. 13. And therefore be not the <hi>same</hi> to persons that are not the <hi>same;</hi> but be a Lamb to the Lambs, and a Lyon to the Wolves, <hi>Psal.</hi> 18.25, 26. God that is no respecter of persons, is yet the greatest Distinguisher of persons. Many actions and accusations may come before you, which are indited by meer Malignant enmity against the fear of God: And if the enemies of a Holy Life can find but Magi<g ref="char:EOLhyphen"/>strates that will fit their turns, they will make your Power but an Engine to do the Devils work; and will never want pretences and covers for their malice. See <hi>Dan.</hi> 6.5. The Godly and sober you must put in your bosome, and honour them that fear the Lord, or else you are no Christians, <hi>Psalm</hi> 15.4. 1 <hi>John</hi> 3.14. But a vile person you must contemn, and the wicked you must cast out as Dross, <hi>Psalm</hi> 15.4. <hi>Prov</hi> 25.4. <hi>Psalm</hi> 119.119. A Ruler that is himself ungodly and distasteth Holiness, will make but a churlish Nursing Father to the Church, <hi>Isa.</hi> 49.23.</p>
+            <p>DIR. V. <hi>Never make the Law an Instrument of evil: Set not the Letter against the sense: Interpret not the sense to be against the End.</hi> As the sense is the Law, so the end informs the means, and is above it. The Law of the Land may restrain you from doing some good, that the Law of God commandeth to the Soveraign Rulers: but it cannot warrant you to do any evil. There is no Power but from God, and God gives none against himself, <hi>Rom.</hi> 13.4.</p>
+            <p>DIR. VI. <hi>See that you be such your selves as you would have others be. Be Examples of Holiness, Temperance, and Righteousness to all the People.</hi> 1. Let your practice commend a Holy Life, and all Gods Ordinances, publike and private, to them. Order your Fami<g ref="char:EOLhyphen"/>lies, as they should do theirs. As Ministers must Preach by their Lives, so you must Govern by your Lives. If you neglect holy Worship, despise Discipline, or have pro<g ref="char:EOLhyphen"/>phane and Prayerless Families, the people take it for a license to be prophane. 2. Avoid the sins which you would have them avoid; especially be as little as may be in Alehouses, or unlawful sports. Honor Godliness, and disgrace all sin, by your daily speeches and examples. If you will disobey God and the Laws, how can you expect obedience your selves?</p>
+            <p>DIR. VII. <hi>Set your selves to Do Good with all your skill, and care, and industry.</hi> Have no restriction but disability. Study it, and make it your daily work to do all the good you can: You have an Office to discharge, and not a work on the by to do. Abhor the Principles and Spirit, that intice Magistrates to shift off all the displeasing and trouble<g ref="char:EOLhyphen"/>some work, and to do no more then is thrust upon them, and they know not how with honor to avoid. If you know of unlicensed or abusive Alehouses, or other wickedness that calls for redress; stay not till you are urged, and Conviction is offered you; but make enquiry, and procure them Convicted, and think it not below you, or too much to seek after vice, and do all that you are able to suppress it. If the Law of the Land oblige you not to this, Gods Law doth, by which you shall be judged. 1. Is not sin Gods enemy? 2. Have you not taken up Arms against it by a double Engagement, as Christians, and as Magistrates? 3. Doth it not bring down Judgements, and is it not the fire in our thatch, and the plague of the Common-wealth? 4. Did it not kill the Lord Jesus? 5. Doth it not damn men to the everlasting misery? 6. Is it not fearfull to draw on your own heads, the guilt of a thousand Oaths, and of the Drunkenness and other abo<g ref="char:EOLhyphen"/>minations which you connive at? 7. Your Power is one of Gods Talents, of which he will require the improvement. 8. If your Offices be good and necessary to the Com<g ref="char:EOLhyphen"/>mon-wealth, then make the best of them. If you do little in them, you teach men to esteem them little worth. 9. Every man is bound to do all the good he can in his place, and therefore so are you. 10. If negligent and scandalous Ministers must be cast out, what must be done with negligent and scandalous Magistrates? If you make your Of<g ref="char:EOLhyphen"/>fice more consistent with sin then ours, you so far vilifie it. If Magistrates were but dealt with, as Ministers be, by the sequestring Act, what work would be made? 11. Can a man do too much for such a God, such a Reward, such an End, and in such a Cause? You have more from God then others, in honor and greatness, and therefore you should be more diligent then others, <hi>Luke</hi> 12.48. 12. When you have done your best, you shall find that sin will be too hard for you, and the Devil too cunning for you. Sin is so strong, its friends so many and violent: its enemies so few, despised, discouraged and weak; and their Impediments so very many and great, that when you have all done your best, it will be too little. Never were there stricter Laws and Endeavours, and yet Drunkenness and wickedness rageth in our streets, as if it were to scorn or dare the Magistrate; and many honest people are so tired in the costly and fruitless prosecution, that they are tempted to sit down, and meddle no more, and to entertain unworthy thoughts of Ma<g ref="char:EOLhyphen"/>gistracy, <hi>Deut.</hi> 13.14. If there were but a fame of a seducing Idolater, they were <hi>to enquire and make search, and ask diligently whether it were true</hi> or not. See what work <hi>Nehemiah</hi> made with the Sabbath-breakers, <hi>Neh.</hi> 13. <hi>Job</hi> saith, (29.16.) I was a father to the poor: and <hi>the cause which I knew not I searched out.</hi> And if in wrongs against men you must search, much more when against God. And if Magistrates be not bound to search after sin, no body is: for <hi>why should poor private men do it more then you?</hi> Read <hi>Psalm</hi> 101.</p>
+            <p>DIR. VIII. <hi>Think not of a Conscionable discharge of your duty, without many Temptations to take you off: See</hi> therefore <hi>that you be fortified with self-denial and Resolution:</hi> Those that smart by you will complain, scarce a sinner but will have a friend to solicite you for his impunity: your own selfishness will be tempting you to be partial to your friends, to Gentlemen, and such as may do you a pleasure, or a displeasure. If you cannot deny both self and all for Christ, you cannot be true to him. <hi>Luke</hi> 14.26, 33. Be at a point with all the world, as one that is resolved that God must be pleased, if all be displeased. You are Captains in Christs Army against Sin and Sathan, and therefore must excel in courage, <hi>Iosh.</hi> 1.7. 1 <hi>Chron.</hi> 22.13. &amp; 28.10, 20. &amp; 2 <hi>Chron.</hi> 15.7. &amp; 19.6, 7. He that cannot deny his friend, or self, will deny God. See 1 <hi>Sam.</hi> 2.29, 30 Pitty more the Nation and mens souls, then the body of a sinner. See <hi>Prov.</hi> 19.18. &amp; 23.13, 14. If punishment will do the <hi>sinner</hi> no good, it will restrain many others, and so is a due to the Common-wealth.</p>
+            <p>DIR. IX. <hi>Remember still that your opportunity will be short:</hi> both of Office and Life: and therefore be up and doing, lest you give a dreadfull account of your stewardship; as an unprofitable servant that hath born the sword in vain, and only rub'd out the time in sitting in the seat, and wearing the cloathes of a Magistrate: <hi>Keep you a daily reckoning with your self; and call your self to an account:</hi> What good have you done this day, this week, with your Power? And lament it if any opportunity hath been lost, <hi>Rom.</hi> 13.6, 4.</p>
+            <p>DIR. X. <hi>Be specially carefull to suppress unnecessary abusive Alehouses:</hi> for there is the Devils shop; where Drunkenness, Dissention, Ribaldry, Whoredom, Swearing, Cur<g ref="char:EOLhyphen"/>sing, mocking at Godliness, and a world of wickedness is committed. Oh, how much is God abused in Alehouses in one day! And hitherto they have stood as in despight of all that we can do. <hi>If Constables be not driven on, and Clerks be not watcht, and Prophane Gen<g ref="char:EOLhyphen"/>tlemen that uphold sin well checkt; and if honest men be not much encouraged against the ma<g ref="char:EOLhyphen"/>lice of the ungodly, that count them but busie troublesome fellows, for seeking to suppress this and other sins;</hi> (Gen. 19.9.) wickedness will still raign, and the Laws be as Cyphers to the ruine of souls and Families, the guilt and shame of negligent Magistrates, the grief of the upright, and the reproach and danger of the Common-wealth.</p>
+            <p>DIR. XI. <hi>Defraud not the poor of any thing that the Law hath made their Due.</hi> If the mulets of unlicenced and abusive Ale-sellers, and of Swearers, Drunkards, <hi>&amp;c.</hi> be their Due, how dare you deprive them of it? I doubt at Judgement, abundance of Magi<g ref="char:EOLhyphen"/>strates will have so many pounds to answer for, of which the poor have been defraud<g ref="char:EOLhyphen"/>ed, that the summs charged on High-way Robbers, will come far short of theirs. Usurp not a Power that is not given you, to dispense with the Laws, which you are bound to obey and execute.</p>
+            <p>DIR. XII. <hi>Let Zeal and Prudence go together.</hi> Hearken not to the <hi>impious</hi> that would destroy your zeal, and plunge you into mortal Guilt, on pretence of Prudence and mode<g ref="char:EOLhyphen"/>ration: Nor yet to any that would draw you to rash imprudent actions, on Pretences of Piety or Zeal. In cases where your Duty lies plain before you, go through with it, what<g ref="char:EOLhyphen"/>ever it cost you: But in cases that are too hard for you, if it be a Law-difficulty, consult with the skilful in the Law (lest the malicious take advantage of your mistakes:) and if it be a doubt about the Laws of God, advise with some judicious Ministers of Christ, whose Office it is to teach you, and Rule by Gods Word, as it is yours to command and Rule them by the sword. Its never well, but where Magistrates and Ministers go toge<g ref="char:EOLhyphen"/>ther, each knowing his proper place and work, <hi>Mal.</hi> 2.6, 7. <hi>Deut.</hi> 17.8, 9, 12. 1 <hi>Cor.</hi> 4.1. 1 <hi>Thess.</hi> 5.12. <hi>Heb.</hi> 13.7, 17, 24.</p>
+            <epigraph>
+               <bibl>
+                  <hi>Prov.</hi> 29.2.</bibl>
+               <q>[When the Righteous are in Authority, the People Rejoyce: but wher the wicked beareth Rule, the People mourn.]</q>
+            </epigraph>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 20. 1657.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Robert White,</hi> for <hi>Nevil Simmons.</hi> 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
